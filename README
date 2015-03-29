@@ -1,2 +1,6 @@
+NCEP GFS data downloader
+
 This is a bash script for downloading NCEP GFS data from Internet.
+data source: ftp://ftpprd.ncep.noaa.gov/pub/data/nccf/com/gfs/prod
+download tool: gnu wget
 
